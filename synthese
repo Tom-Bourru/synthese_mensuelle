@@ -98,11 +98,6 @@ th { background-color: #e0e0e0; }
          alt="Logo BV Arguenon" class="logo">
 </header>
 
-<!-- Bouton téléchargement PDF -->
-<div style="text-align:center;">
-    <button id="downloadPDF">Télécharger la synthèse en PDF</button>
-</div>
-
 <!-- Section Carte / Tableau Réseau -->
 <div class="section flex-section pdf-section">
     <div class="left">
